@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A [personal portfolio website]() to showcase projects, skills, and experience.
+A [personal portfolio website](https://richie-omondi.github.io/portfolio-website/) to showcase projects, skills, and experience.
 
 ## Features
 
