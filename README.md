@@ -14,6 +14,9 @@ A personal portfolio website to showcase projects, skills, and experience.
 Clone the repository:
     ```bash
     git clone https://github.com/yourusername/portfolio-website.git
+    ```
+
+    ```
     cd portfolio-website
     ```
 
@@ -33,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Built with ❤️ by [Richard Orido]*
+*Built with ❤️ by Richard Orido*
