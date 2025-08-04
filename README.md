@@ -15,7 +15,7 @@ Clone the repository:
     ```
     git clone https://github.com/yourusername/portfolio-website.git
     ```
-Then:
+then:
     ```
     cd portfolio-website
     ```
